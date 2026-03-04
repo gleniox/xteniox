@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Xteniox .Tests/Xteniox .Tests.csproj" />
+  <Project Path="Xteniox/Xteniox.csproj" />
+</Solution>
