@@ -4,6 +4,27 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>Xteniox</PackageId>
+    <Version>1.0.0</Version>
+    <icon>https://github.com/gleniox/xteniox/blob/main/x.png</icon>
+    <License>MIT</License>
+    <Authors>Glenio Alexandre Nogueira</Authors>
+    <Company>gleniox</Company>
+    <Description>NuGet package containing libraries and tools to be used as third‑party components in .NET projects.</Description>
+    <PackageDescription>NuGet package containing libraries and tools to be used as third‑party components in .NET projects.</PackageDescription>
+    <RepositoryUrl>https://github.com/gleniox/xteniox</RepositoryUrl> 
+    <PackageProjectUrl>https://github.com/gleniox/xteniox</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>xteniox.png</PackageIcon>
+    <PackageTags>xteniox;xteniox libraries;xteniox tools;xteniox components;xteniox utilities;xteniox extensions;xteniox frameworks;xteniox packages;xteniox modules;xteniox plugins</PackageTags>
+    <ReleaseNotes>Initial release of Xteniox package with libraries and tools for .NET projects.</ReleaseNotes>
+    <Title>Xteniox</Title>
+    <Summary>NuGet package containing libraries and tools to be used as third‑party components in .NET projects.</Summary>  
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\xteniox.png" Pack="true" PackagePath="\" /> 
+  </ItemGroup>
 
 </Project>
